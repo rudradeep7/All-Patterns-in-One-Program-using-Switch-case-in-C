@@ -305,7 +305,7 @@ void main(){
 	      break;
 		default:
 		printf("Enter Valid Choice");
-
+		break;
 
 	   }
  getch();
