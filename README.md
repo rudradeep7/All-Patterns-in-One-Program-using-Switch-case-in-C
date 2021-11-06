@@ -14,6 +14,6 @@ In this Program, I am using C language and creating All Patterns Program using S
 :thumbsup:
 
 
-    link = https://www.linkedin.com/in/deep-parmar-rudra-715857185
+ https://www.linkedin.com/in/deep-parmar-rudra-715857185
 
 ## ThankYou:pray:
