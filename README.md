@@ -13,7 +13,9 @@ In this Program, I am using C language and creating All Patterns Program using S
 ### I am Using "Line" Variable for fetch User Input.(How many Lines of Our Pattern):+1:
 :thumbsup:
 
+[![LinkedIn](https://img.shields.io/badge/Rudradeep-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/deep-parmar-rudra-715857185/)
+[![GitHub](https://img.shields.io/badge/Rudradeep-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudradeep7/)
 
- https://www.linkedin.com/in/deep-parmar-rudra-715857185
+
 
 ## ThankYou:pray:
