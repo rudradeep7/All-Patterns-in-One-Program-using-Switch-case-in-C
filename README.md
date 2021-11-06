@@ -36,6 +36,8 @@ In this Program, I am using C language and creating All Patterns Program using S
 [![LinkedIn](https://img.shields.io/badge/Rudradeep-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/deep-parmar-rudra-715857185)
   <br>
 [![GitHub](https://img.shields.io/badge/Rudradeep-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudradeep7)
+  <br>
+[![Instagram](https://img.shields.io/badge/its_rudra_deep9-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/its_rudra_deep)  
 
 
 
