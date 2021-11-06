@@ -13,9 +13,7 @@ In this Program, I am using C language and creating All Patterns Program using S
 ### I am Using "Line" Variable for fetch User Input.(How many Lines of Our Pattern):+1:
 :thumbsup:
 
- [[Deep.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/deep-parmar-rudra-715857185"
+
+    link = https://www.linkedin.com/in/deep-parmar-rudra-715857185
 
 ## ThankYou:pray:
