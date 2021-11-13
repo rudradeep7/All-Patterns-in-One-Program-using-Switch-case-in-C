@@ -5,8 +5,10 @@ void main(){
 
 	clrscr();
 	int i,j,Line,S,Switch,M;
-	int Choice=15;
+	int star=8,num=0,count=1,space;//for Star&pattern both Program
+	int Choice=17;
 	M=Line;
+	space=Line;
 
 	printf("Enter No. Of Lines In Pattern: ");
 	scanf("%d",&Line);
@@ -25,7 +27,9 @@ void main(){
 	printf("12. Hollow Rhombus Star\n");
 	printf("13. Hollow Mirror Rhombus Star\t");
 	printf("14. Hollow Pyramid Star\n");
-	printf("15. X Star Pattern\n\n");
+	printf("15. X Star Pattern\n");
+	printf("16. Pyramid using Star and Numbers\n");
+	printf("17. Heart Star Shape\n\n");
 
 	printf("Enter Your Choice: ");
 	scanf("%d",&Choice);
@@ -303,6 +307,71 @@ void main(){
 			printf("\n");
 	      }
 	      break;
+		case 16:
+		for(i=1;i<=Line;i++)
+		{
+			for(j=1;j<=star;j++)
+
+				if(i+j<=star+1)
+
+					printf("*");
+					num++;
+						for(j=1;j<=i;j++)
+						{
+						    printf("%d",num);
+							if(i>1 && count<i)
+							{
+							   printf("*");
+							   count++;
+							}
+						}
+				    for(j=1;j<=star;j++)
+
+					if(i+Line<=j+Line)
+
+						printf("*");
+						printf("\n");
+						space--;
+						count=1;
+
+		}
+		break;
+					//heart shape
+		case 17:
+		for(i=Line/2;i<=Line;i+=2)
+		{
+			for(j=1;j<=Line-i;j+=2)
+			{
+				printf(" ");
+			}
+			for(j=1;j<=i;j++)
+			{
+				printf("*");
+			}
+			for(j=1;j<=Line-i;j++)
+			{
+				printf(" ");
+			}
+			for(j=1;j<=i;j++)
+			{
+				printf("*");
+			}
+		    printf("\n");
+		}
+		for(i=Line;i>=1;i--)
+		{
+			for(j=i;j<Line;j++)
+			{
+				printf(" ");
+			}
+			for(j=1;j<=(i*2)-1;j++)
+			{
+				printf("*");
+			}
+		   printf("\n");
+		}
+		break;	
+			
 		default:
 		printf("Enter Valid Choice");
 		break;
