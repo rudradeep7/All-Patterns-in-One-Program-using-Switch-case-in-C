@@ -20,6 +20,8 @@ In this Program, I am using C language and creating All Patterns Program using S
 # Here, You Can See The OutPut:point_down:
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/70055380/140621051-e02ad838-e3a9-41ff-adee-6506059f8f5d.png)
+  
+  # Newly Added Pattern:point_down:
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/70055380/141610902-a27e0e03-fcbc-4d91-b612-e701059bedcd.png)
 
